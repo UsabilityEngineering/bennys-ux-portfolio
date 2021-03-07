@@ -8,7 +8,7 @@
 ## UX Journal
 
 
-[1st Journal Entry] [journal1.md]
+[1st Journal Entry][journal1.md]
 
 
 2nd Journal Entry
