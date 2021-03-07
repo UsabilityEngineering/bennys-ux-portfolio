@@ -7,7 +7,7 @@
 
 ## UX Journal
 
-### 1st Journal Entry 
+### [1st Journal Entry] (../blob/master/journal1)
 
 
 ### 2nd Journal Entry
