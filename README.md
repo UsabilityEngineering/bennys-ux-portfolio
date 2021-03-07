@@ -2,6 +2,13 @@
 
 ## Journal Entry 1
 
+
+
+
+
+
+
+
 ## UX Team Project
 ### Member count: 1
 
