@@ -1,9 +1,12 @@
 # Benny's Very Advanced Never Before Seen UX Portfolio
 
-## Journal Entry 1
+## 1st Journal Entry 
 
 
+## 2nd Journal Entry
 
+
+## 3rd Journal Entry
 
 
 
