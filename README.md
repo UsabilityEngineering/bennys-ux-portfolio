@@ -8,10 +8,13 @@
 ## UX Journal
 
 
-[1st Journal Entry][journal1.md]
+[1st Journal Entry][1]
 
 
 2nd Journal Entry
 
 
 3rd Journal Entry
+
+
+[1]:journal1.md
