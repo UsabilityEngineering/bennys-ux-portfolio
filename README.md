@@ -8,7 +8,7 @@
 ## UX Journal
 
 
-[Read about an awesome ergonmic keyboard!][1]
+[Read about an awesome ergonomic keyboard!][1]
 
 
 2nd Journal Entry
