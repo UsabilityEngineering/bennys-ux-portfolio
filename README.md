@@ -8,7 +8,7 @@
 ## UX Journal
 
 
-[1st Journal Entry][1]
+[Read about an awesome ergonmic keyboard!][1]
 
 
 2nd Journal Entry
@@ -17,4 +17,4 @@
 3rd Journal Entry
 
 
-[1]:journal1.md
+[1]:journal1.html
