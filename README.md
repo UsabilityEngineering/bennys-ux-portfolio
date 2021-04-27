@@ -17,4 +17,4 @@
 3rd Journal Entry
 
 
-[1]:journal1.html
+[1]:j01
