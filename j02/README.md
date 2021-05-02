@@ -21,4 +21,6 @@ Setting it up was no hassle. The User Interface the stream deck application has 
 Using this stream deck is very **satisfying** as I simply have to touch a couple buttons and I have all my brokers open in a browser window along with my Blackboard and gmail in literally a second(F3). Every morning I turn on my computer, press a couple buttons and I am instantly ready to accomplish what is needed. 
 
 ### F3 
-![](https://user-images.githubusercontent.com/30060268/116829523-fa50c080-ab58-11eb-80c9-cdd809644a4c.mov)
+https://user-images.githubusercontent.com/30060268/116829523-fa50c080-ab58-11eb-80c9-cdd809644a4c.mov
+
+if gif fails to load https://i.imgur.com/D2qduDQ.mp4
