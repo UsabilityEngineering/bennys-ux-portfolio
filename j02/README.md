@@ -23,4 +23,4 @@ Using this stream deck is very **satisfying** as I simply have to touch a couple
 ### F3 
 https://user-images.githubusercontent.com/30060268/116829523-fa50c080-ab58-11eb-80c9-cdd809644a4c.mov
 
-if gif fails to load https://i.imgur.com/D2qduDQ.mp4
+if .mov fails to load (https://i.imgur.com/D2qduDQ.mp4)
