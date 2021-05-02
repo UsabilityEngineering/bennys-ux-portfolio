@@ -11,7 +11,7 @@
 [Read about an awesome ergonomic keyboard!][1]
 
 
-[What is a streamdeck?][2]
+[What is a stream deck?][2]
 
 
 3rd Journal Entry
