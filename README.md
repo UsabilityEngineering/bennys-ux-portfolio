@@ -11,10 +11,11 @@
 [Read about an awesome ergonomic keyboard!][1]
 
 
-2nd Journal Entry
+[What is a streamdeck?][2]
 
 
 3rd Journal Entry
 
 
 [1]:j01
+[2]:j02
