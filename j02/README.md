@@ -22,6 +22,7 @@ Using this stream deck is very **satisfying** as I simply have to touch a couple
 
 Every morning I would usually have to wait 1-2 minutes on the computer loading up all the background applications. I would be waiting until the loading was done, then it would let me launch the browser and from there I would have to indiviual type out each webpage I need. Safe to say that the stream deck has been saving roughly 5 minutes each morning. However, now every morning I turn on my computer,I press a couple buttons and I am instantly ready to accomplish what is needed for that day. 
 ### [Example F3](https://i.imgur.com/D2qduDQ.mp4) 
+
 https://user-images.githubusercontent.com/30060268/116829523-fa50c080-ab58-11eb-80c9-cdd809644a4c.mov
 
 
