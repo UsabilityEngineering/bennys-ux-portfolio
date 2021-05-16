@@ -16,9 +16,9 @@ Using this stream deck is very **satisfying** as I simply have to touch a couple
 
 ### [Example F3](https://i.imgur.com/D2qduDQ.mp4) 
 
-Every morning I would usually have to wait 1-2 minutes on the computer loading up all the background applications. I would be waiting until the loading was done, then it would let me launch the browser and from there I would have to individually type out each webpage that is needed. Safe to say that the stream deck has been saving roughly 5 minutes each morning. However, now every morning I turn on my computer, I press a couple buttons and I am instantly ready to accomplish what is needed for that day.   
+Every morning I usually have to wait 1-2 minutes on the computer loading up all the background applications. I would be waiting until the loading was done, so it lets me launch the browser and from there I have to individually type out each webpage that is needed. Safe to say that the stream deck has been saving roughly 5 minutes each morning. However, now every morning I turn on my computer, I press a couple buttons and I am instantly ready to accomplish what is needed for that day.   
 
-I believe that the stream deck was built with efficiency in mind. It allows the user to accomplish their tasks faster than ever. Having a stream deck also helps in making those forgetful key command shortcuts easier to use. You can just assign that shortcut command to a button once, and it will activate upon it being pressed.
+I believe that the stream deck was built with efficiency in mind. It allows the user to accomplish their tasks faster than ever. Having a stream deck also helps in making those forgetful key command shortcuts easier to use. You can just assign that shortcut command to a button once, and it will activate upon it being pressed. How cool is that!
 
 
 
