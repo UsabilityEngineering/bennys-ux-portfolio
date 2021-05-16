@@ -14,8 +14,6 @@
 [What is a stream deck?][2]
 
 
-3rd Journal Entry
-
 
 [1]:j01
 [2]:j02
